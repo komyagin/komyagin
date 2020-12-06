@@ -1,5 +1,15 @@
 ### Hi there 👋
+Stack
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+Social Networks
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/semyon-komyagin/)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/trwnend)
+&nbsp;
+ 
 <!--
 **komyagin/komyagin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
