@@ -15,10 +15,3 @@ I'm a Software Engineer in Test with a passion for automating software testing. 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=komyagin&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=halmeru)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
----
-[![](https://visitcount.itsvg.in/api?id=komyagin&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
