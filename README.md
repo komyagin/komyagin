@@ -1,4 +1,4 @@
-# 🇰🇿💫 About Me:
+# 🪆💫 About Me:
 I'm a Software Engineer in Test with a passion for automating software testing. My current focus is on developing high-quality Spring applications with React, and I'm always looking for ways to improve the testing process.<br><br>In addition to my current work, I'm also pursuing the AWS Developer Associate Certification to deepen my knowledge of cloud-based development and deployment. I believe that by staying up to date with the latest technologies and techniques, I can continue to deliver valuable software testing solutions.<br><br>If you have any questions about Test Automation in Java or want to discuss the latest trends in software testing, feel free to reach out!
 
 
